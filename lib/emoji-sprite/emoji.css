@@ -1,4 +1,4 @@
-.emoji {background-image: url(emoji2.gif); background-repeat: no-repeat; width:16px; height: 16px; margin:0; padding: 0; display: inline-block;}
+.emoji {background-image: url(emoji.gif); background-repeat: no-repeat; width:16px; height: 16px; margin:0; padding: 0; display: inline-block;}
 
 .emoji.sun { background-position:  -2px -2px }
 .emoji.cloud { background-position:  -22px -2px }
