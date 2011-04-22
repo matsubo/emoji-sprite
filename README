@@ -1,3 +1,28 @@
-Please upgrade emoji image!!
 
-lib/emoji-sprite/emoji.gif
+@download
+- original
+  % git clone git://github.com/matsubo/emoji-sprite.git
+
+- as submodule
+  % git submodule add  git://github.com/matsubo/emoji-sprite.git emoji-sprite
+  % git submodule update
+
+- delete submodule
+  % vi .git/config # delete submodule
+  % git rm --cached emoji-sprite
+
+
+@files
+data/
+  - CSV file to generarte CSS file.
+
+lib/
+  - core library. copy following directory into your repository.
+
+sample/
+  - CSS sprite sample HTML.
+
+
+@see wiki for detail
+  https://github.com/matsubo/emoji-sprite/wiki
+
