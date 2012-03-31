@@ -2,7 +2,6 @@ Emoji Sprite
 ==============
 
 
-
 Quick Install
 -------------
 
@@ -10,7 +9,7 @@ Quick Install
 
 Enjoi :D
 
-Directory discription
+Directory description
 -------------
 * data/
   * CSV file to generarte CSS file.
