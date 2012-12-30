@@ -5,9 +5,10 @@ Emoji Sprite
 Quick Install
 -------------
 
-  % git clone git://github.com/matsubo/emoji-sprite.git
+```
+% git clone git://github.com/matsubo/emoji-sprite.git
+```
 
-Enjoi :D
 
 Directory description
 -------------
@@ -21,8 +22,9 @@ Directory description
 
 Usage Detail
 -------------
-Please refer to the wiki.
-https://github.com/matsubo/emoji-sprite/wiki
+
+* Please refer to the wiki.
+  * https://github.com/matsubo/emoji-sprite/wiki
 
 
 
@@ -31,5 +33,4 @@ Author
 ---------------
 Yuki Matsukura
 
-https://github.com/matsubo/emoji-sprite/wiki
 
