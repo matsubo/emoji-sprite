@@ -9,7 +9,12 @@ Quick Install
 % git clone git://github.com/matsubo/emoji-sprite.git
 ```
 
-Open the `sample/template.html` file by web browser.
+or 
+
+Download from https://github.com/matsubo/emoji-sprite/archive/master.zip
+
+
+Then, open the `sample/template.html` with web browser.
 
 
 Directory description
